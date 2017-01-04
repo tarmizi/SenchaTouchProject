@@ -87,7 +87,7 @@ Ext.define('MyGPS.view.Login', {
                 {
                     xtype: 'textfield',
                     //  margin: '-10 0 0 0',
-                    placeHolder: 'Username',
+                    placeHolder: 'Put Username',
                     id: 'loginuserNameTextField',
                     // name: 'userNameTextFieldname',
                     required: true
